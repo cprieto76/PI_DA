@@ -18,16 +18,23 @@
 - 2020 62.12 millones
 - 2021 66.69 millones (Crecimiento del 7%)
 
-## 
+## Principal Actividad Empresa
 
-## Necesidad Principal del cliente
-- Analisis el sector telecomunicaciones a nivel nacional 
 - Brindar acceso a internet
 
-## Objetivos Colaterales
+## Objetivos Secundarios pero no menos importantes de la Empresa
+
 - Brindar buena calidad de servicios (Telefonia Fija, Telefonia Movil, Television, Radio, Internet)
 - Identificar oportunidades de crecimiento
 - Plantear soluciones personalizadas a sus posibles clientes
+
+## Requerimiento Principal del cliente. Rol a desarrollar
+
+- Analisis el sector telecomunicaciones a nivel nacional 
+
+
+## Objetivos Colaterales
+
 
 
   
