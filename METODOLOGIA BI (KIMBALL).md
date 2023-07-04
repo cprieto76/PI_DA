@@ -11,4 +11,15 @@ herramientas de consulta, aplicaciones gráficas para informes, capacitación y 
 
 ![image](https://github.com/cprieto76/PI_DA/assets/115907710/2d32aef4-5b47-40d9-8224-492bfc81a0d8)
 
+### Capas de la metodologia
+
+a) **Capa de Planificación**
+
+Actividades:
+
+- Definir el alcance.
+- Identificar y programar las tareas.
+- Planificación del uso de los recursos.
+- Asignación de trabajo a los recursos.
+- Elaboración del documento de plan de proyecto.
 
