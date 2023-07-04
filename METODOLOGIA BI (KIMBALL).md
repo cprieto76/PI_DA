@@ -54,3 +54,7 @@ sistemas de respaldo, e instalación de software en los diferentes servidores
 e) **Capa de diseño e Implementación del Subsistema de ETL**
  
 Identificar y recopilar la información inicial de los datos fuente, clasificar la información realizando la respectiva depuración, extrayendo los registros que no contengan cierto grado requerido de calidad y realizando las adecuaciones pensando en su visualización final, para posteriormente cargar la información procesada en el modelo diseñado
+
+f) **Capa de implementación**
+
+Implementación de todo el modelo, lo cual implica la convergencia del diseño lógico, diseño físico y la visualización de la solución hacia los usuarios de negocio. Es importante tener en cuenta aspectos como la capacitación, el soporte y las estrategias para el crecimiento y mantenimiento de la solución.
