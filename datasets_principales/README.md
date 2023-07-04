@@ -1,5 +1,5 @@
 Tomamos datos de API ubicada en URL https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
-Enacom (Ente nacional de Telecomuncaciones)
+Enacom (Ente nacional de Telecomunicaciones)
 
 El ENACOM es un ente autárquico y descentralizado que funciona en el ámbito de la Jefatura de Gabinete de Ministros de la Nación. Su objetivo es conducir el proceso de convergencia tecnológica y crear condiciones estables de mercado para garantizar el acceso de todos los argentinos a los servicios de internet, telefonía fija y móvil, radio, postales y televisión.
 
