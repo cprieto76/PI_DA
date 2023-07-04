@@ -16,9 +16,9 @@ herramientas de consulta, aplicaciones gráficas para informes, capacitación y 
 
 ![image](https://github.com/cprieto76/PI_DA/assets/115907710/2d32aef4-5b47-40d9-8224-492bfc81a0d8)
 
-### Capas de la metodologia
+### CAPAS DE METODOLOGIA
 
-a) **Capa de Planificación**
+### a) **Capa de Planificación**
 
 *Actividades*:
 
@@ -27,4 +27,28 @@ a) **Capa de Planificación**
 - Planificación del uso de los recursos.
 - Asignación de trabajo a los recursos.
 - Elaboración del documento de plan de proyecto.
+
+b) **Capa de definición de requerimientos**
+
+Los requerimientos especifican qué es lo que el sistema debe hacer (sus funciones) y sus propiedades esenciales y deseables.
+
+La captura de los requerimientos tiene como objetivo principal la comprensión de lo que los clientes y los usuarios esperan que haga el sistema.
+
+c) **Capa de modelado Dimensional**
+
+Es un proceso iterativo que consta de 4 pasos:
+
+1) **Elegir el proceso de negocio**
+
+2) **Establecer el nivel de granularidad o nivel de detalle**
+
+3) **Elegir las dimensiones**
+
+4) **Identificar las tablas de hechos y medidas**
+
+d) **Capa de Diseño Físico**
+
+Dimensionamiento a nivel de servidores, procesadores, memoria a utilizar, almacenamiento,
+sistemas de respaldo, e instalación de software en los diferentes servidores
+
 
