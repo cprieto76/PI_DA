@@ -30,6 +30,15 @@
 - 24,25 Mbit/segundo; velocidad descarga (Puesto 92)
 - 7 Mbi/segundo; velocidad de subida, (Puesto 123)
 
+### Tarifa de telefonia movil
+
+Usuario Argentino gasta el 4% de su renta en telefonia movil (Nivel mundial 6,6%)
+
+### Cobertura Internet
+
+- Cobertura 4G:   97,68%
+- Acceso Internet desde 2019 a 2021: Entre el 80% y 90% (Creciente)
+
 # Principal Actividad Empresa
 
 - Brindar acceso a internet
