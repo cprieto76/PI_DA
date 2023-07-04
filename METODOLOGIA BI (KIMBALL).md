@@ -1,6 +1,6 @@
 # METODOLOGIA KIMBALL
 
-Metodología de diseño y construcción de Datawarehouse.
+Metodología de diseño y construcción de Datawarehouse (DW).
 La metodología se basa en el **Ciclo de Vida Dimensional del Negocio**.
 Este ciclo de vida del proyecto de DW, está basado en cuatro principios básicos:
 - **Centrado en el negocio**: Conocimiento profundo acerca del negocio
