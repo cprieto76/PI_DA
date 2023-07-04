@@ -20,7 +20,8 @@
 
 ## 
 
-## Principal actividad
+## Necesidad Principal del cliente
+- Analisis el sector telecomunicaciones a nivel nacional 
 - Brindar acceso a internet
 
 ## Objetivos Colaterales
