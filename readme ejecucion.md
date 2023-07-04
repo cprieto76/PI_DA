@@ -10,6 +10,8 @@
 - Edad:                    Edades predominantes entre los 5 a los 50 años
 - Temperatura minima:      3 C   (Julio)
 - Temperatura Maxima:      28 C (Enero)
+- Inflacion:               94,8%
+- Idioma:                  Español (97%)
 
 ## Media de conexiones Argentina
 
