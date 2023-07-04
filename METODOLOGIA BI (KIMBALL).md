@@ -51,4 +51,6 @@ d) **Capa de Diseño Físico**
 Dimensionamiento a nivel de servidores, procesadores, memoria a utilizar, almacenamiento,
 sistemas de respaldo, e instalación de software en los diferentes servidores
 
-
+e) **Capa de diseño e Implementación del Subsistema de ETL**
+ 
+Identificar y recopilar la información inicial de los datos fuente, clasificar la información realizando la respectiva depuración, extrayendo los registros que no contengan cierto grado requerido de calidad y realizando las adecuaciones pensando en su visualización final, para posteriormente cargar la información procesada en el modelo diseñado
