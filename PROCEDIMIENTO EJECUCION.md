@@ -6,27 +6,26 @@
 
 #### - METODOLOGIA : KIMBALL
 
-#### Objetivo Principal Empresa
+#### OBJETIVO PRINCIPAL EMPRESA
 
 - Acceso a servicios
 
-#### Objetivos Secundarios Empresa
+#### OBJETIVOS SECUNDARIOS EMPRESA
 
 - Calidad de servicio
 - Identificar oportunidades de crecimiento
 - Plantear soluciones personalizadas a sus posibles clientes
 
-#### Requerimiento Principal del cliente
-#### Rol a desarrollar de nuestra parte
+#### REQUERIMIENTO PRINCIPAL DEL CLIENTE. (ROL A EJECUTAR)
 
 - Analisis del sector telecomunicaciones a nivel nacional para lograr **Objetivo Principal** y **Secundarios**
 
-## PROCEDIMIENTO
+#### PROCEDIMIENTO
 
-### I.    Extraccion de Datos
-### II.   EDA (Exploratory Data Analysis)
-### III.  Visualizaciones
-### IV.   Definicion de KPI's
+#### I.    Extraccion de Datos
+#### II.   EDA (Exploratory Data Analysis)
+#### III.  Visualizaciones
+#### IV.   Definicion de KPI's
 
 
 
