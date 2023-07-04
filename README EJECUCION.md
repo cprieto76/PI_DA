@@ -65,6 +65,7 @@ Usuario Argentino gasta el 4% de su renta en telefonia movil (Nivel mundial 6,6%
 - Identificar oportunidades de crecimiento
 - Plantear soluciones personalizadas a sus posibles clientes
 
-# Requerimiento Principal del cliente. Rol a desarrollar de nuestra parte
+# Requerimiento Principal del cliente
+# Rol a desarrollar de nuestra parte
 
 - Analisis del sector telecomunicaciones a nivel nacional para lograr **Objetivo Principal** y **Secundarios**
