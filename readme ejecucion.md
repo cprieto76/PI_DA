@@ -3,6 +3,10 @@
 ## Pais
 Argentina
 
+## Media de conexiones Argentina
+2020 62.12 millones
+2021 66.69 millones (Crecimiento del 7%)
+
 ## 
 
 ## Principal actividad:
