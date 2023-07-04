@@ -4,16 +4,21 @@
 ###  Argentina
 - Poblacion:               46.044.703 (Instituto Nacional de Estadística y Censos (Indec)) Mayo.2020
 - Area (Km2) :             2.780.400
-- Hab/Km2:
-- Poblacion Urbana (%):     92
-- Viviendas:                17.805.711
+- Hab/Km2:                 16.56
+- Poblacion Urbana (%):    92
+- Viviendas:               17.805.711
+- Edad:                    Edades predominantes entre los 5 a los 50 años
+- Temperatura minima:      3 C   (Julio)
+- Temperatura Maxima:      28 C (Enero)
+
 ## Media de conexiones Argentina
+
 - 2020 62.12 millones
 - 2021 66.69 millones (Crecimiento del 7%)
 
 ## 
 
-## Principal actividad:
+## Principal actividad
 - Brindar acceso a internet
 
 ## Objetivos Colaterales
