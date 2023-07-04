@@ -49,22 +49,25 @@ Usuario Argentino gasta el 4% de su renta en telefonia movil (Nivel mundial 6,6%
 
 
 
-# Principales Servicios Empresa
+# Servicios Empresa
 
-## 1) Internet (Mas importante)
-## 2) Telefonia Fija
-## 3)Telefonia Movil
-## 4) Television
-## 5) Radio
+## 1)   Internet (Mas importante)
+## 2)   Telefonia Fija
+## 3)   Telefonia Movil
+## 4)   Television
+## 5)   Radio
 
+# Objetivo Principal Empresa
 
-# Objetivos Secundarios pero no menos importantes de la Empresa
+## Acceso
 
-- Brindar buena calidad de servicios
+# Objetivos Secundarios Empresa
+
+- Brindar buena calidad de servicio
 - Identificar oportunidades de crecimiento
 - Plantear soluciones personalizadas a sus posibles clientes
 
-# Requerimiento Principal del cliente. Rol a desarrollar
+# Requerimiento Principal del cliente. Rol a desarrollar de nuestra parte
 
 - Analisis el sector telecomunicaciones a nivel nacional 
 
