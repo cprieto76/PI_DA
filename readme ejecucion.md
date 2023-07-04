@@ -49,13 +49,18 @@ Usuario Argentino gasta el 4% de su renta en telefonia movil (Nivel mundial 6,6%
 
 
 
-# Principal Actividad Empresa
+# Principales Servicios Empresa
 
-- Brindar acceso a internet
+## 1) Internet (Mas importante)
+## 2) Telefonia Fija
+## 3)Telefonia Movil
+## 4) Television
+## 5) Radio
+
 
 # Objetivos Secundarios pero no menos importantes de la Empresa
 
-- Brindar buena calidad de servicios (Telefonia Fija, Telefonia Movil, Television, Radio, Internet)
+- Brindar buena calidad de servicios
 - Identificar oportunidades de crecimiento
 - Plantear soluciones personalizadas a sus posibles clientes
 
