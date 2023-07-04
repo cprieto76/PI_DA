@@ -25,8 +25,8 @@
 
 ### I.    Extraccion de Datos
 ### II.   EDA (Exploratory Data Analysis)
-### III.  VISUALIZACIONES
-### IV.   DEFINICION DE KPI'S
+### III.  Visualizaciones
+### IV.   Definicion de KPI's
 
 
 
