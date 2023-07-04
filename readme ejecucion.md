@@ -26,7 +26,7 @@
 - 61,19 Mbit/segundo; velocidad descarga (Puesto 69 a nivel mundial)
 - 25,82 Mbit/segundo; velocidad de subida (Puesto 78°).
 
-### Internet móvil (tabletas y smartphones) 
+#### Internet móvil (tabletas y smartphones) 
 - 24,25 Mbit/segundo; velocidad descarga (Puesto 92)
 - 7 Mbi/segundo; velocidad de subida, (Puesto 123)
 
