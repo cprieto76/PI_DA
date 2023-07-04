@@ -1,6 +1,7 @@
-# METODOLOGIA KIMBALL
+## METODOLOGIA KIMBALL
 
-Metodología de diseño y construcción de Datawarehouse (DW).
+Metodología de diseño y construcción de Datawarehouse (DW). La metodología Kimball se llama "bottom-up" (de abajo hacia arriba) porque se centra en la construcción gradual y progresiva de un almacén de datos a partir de componentes individuales.
+
 La metodología se basa en el **Ciclo de Vida Dimensional del Negocio**.
 Este ciclo de vida del proyecto de DW, está basado en cuatro principios básicos:
 - **Centrado en el negocio**: Conocimiento profundo acerca del negocio
