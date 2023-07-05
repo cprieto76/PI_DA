@@ -55,11 +55,16 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - a) Abrir en excel y colocar texto en columnas separados por comas
      - b) Reemplazo coma con vacios o dejando la casilla vacia
      - c) Cargo el archivo csv modificado en Power Query de Power Bi
-     - d) Reemplazo null por 0 por si acaso hay que hacer alguna operacion sobre estas filas
-     - e) Reemplazo vacios por 0
-     - f) Cambio tipo de texto a numero entero en varias columnas de tal manera que todas las que corresponden a velocidades quedan en tipo entero
+     - d) Elimino ultima fila o registro [481] que esta vacio
 
+  5) report771.html (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
 
+     Transformaciones ejecutadas
+     - a) Abrir en excel y colocar texto en columnas separados por comas
+     - b) Reemplazo coma con vacios o dejando la casilla vacia
+     - c) Cargo el archivo csv modificado en Power Query de Power Bi
+     - d) Elimino ultima fila o registro [481] que esta vacio
+    
 #### III.  Visualizaciones
 
 - POWER BI
