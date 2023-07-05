@@ -63,6 +63,13 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - a) Cargo el archivo csv modificado en Power Query de Power Bi
      - b) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
          dentro de la URL:https://datosabiertos.enacom.gob.ar/visualizations/29951/conectividad-al-servicio-de-internet/
+
+  5) report300.html (300Internet_Penetracion (1).csv)
+
+     Transformaciones ejecutadas
+     - a) Cargo el archivo csv modificado en Power Query de Power Bi
+     - b) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
+         dentro de la URL:https://datosabiertos.enacom.gob.ar/visualizations/29951/conectividad-al-servicio-de-internet/
     
 #### III.  Visualizaciones
 
