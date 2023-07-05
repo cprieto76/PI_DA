@@ -23,9 +23,23 @@
 #### PROCEDIMIENTO
 
 #### I.    Extraccion de Datos
+
+Ejecutamos 
 #### II.   EDA (Exploratory Data Analysis)
+
+Realizamos EDA con libreria de python **y_dataprofiling**
+- Cargamos archivos csv de datasets principal y los convertimos a df para proceder a hacer reporte de analisis con la libreria
+- A partir del reporte ejecutamos transformaciones en power query de POWER BI
+- Armamos modelo de datos, tablas y sus relaciones
+
+- 
 #### III.  Visualizaciones
+
+- POWER BI
+
 #### IV.   Definicion de KPI's
+
+- 
 
 
 
