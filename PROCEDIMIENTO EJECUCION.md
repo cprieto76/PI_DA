@@ -40,9 +40,9 @@ Realizamos EDA con libreria de python **y_dataprofiling**
 
   2) report653.html (AccesosaInternetfijoporvelocidaddebajadaylocalidad_2776171688443389653.csv)
      Transformaciones ejecutadas
-     a) Eliminacion columna 13
-     b) Cambio valores -0 a 0
-     c) Cambio de tipo numerico de texto a numero en casi todas las columnas
+     - a) Eliminacion columna 13
+     - b) Cambio valores -0 a 0
+     - c) Cambio de tipo numerico de texto a numero en casi todas las columnas
 - 
 #### III.  Visualizaciones
 
