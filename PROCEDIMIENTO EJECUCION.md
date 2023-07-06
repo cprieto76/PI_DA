@@ -135,7 +135,12 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - b) Se corrigen datos numericos que tienen un asterisco (*). Se borra
      - b) Cargo el archivo csv modificado en Power Query de Power Bi 
 
-  *	Los datos provinciales no coinciden a nivel nacional, ya que se reincorpora informaciÃ³n que no contien apertuta a nivel geogrÃ¡fico.							
+  *	Los datos provinciales no coinciden a nivel nacional, ya que se reincorpora informaciÃ³n que no contien apertuta a nivel geogrÃ¡fico.
+
+  ##### 16) report185.html (5) (185Listadodelocalidadesconconectividadainternet185.csv)
+
+  La información ya se encuentra en reporte 977 correspondiente a acceso de tecnologias por localidad, por lo cual no se carga a POWER BI
+
 #### III.  Visualizaciones
 
 - POWER BI
