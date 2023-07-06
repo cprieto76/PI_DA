@@ -32,14 +32,14 @@ Realizamos EDA con libreria de python **y_dataprofiling**
 - A partir del reporte ejecutamos transformaciones en power query de POWER BI
 - Armamos modelo de datos, tablas y sus relaciones
 
-  1) report700.html (AccesosaInternetfijoportecnologiaylocalidad_2791751688443409700.csv)
+  ##### 1) report700.html .    (700AccesosaInternetfijoportecnologiaylocalidad700.csv)
 
      Transformaciones ejecutadas
      - a) Eliminacion columna 13
      - b) Cambio valores -0 a 0
      - c) Cambio tipo de texto a numero entero en casi todas las columnas quedando las columnas de la tecnologia especifica todas con ese tipo
 
-  2) report653.html (AccesosaInternetfijoporvelocidaddebajadaylocalidad_2776171688443389653.csv)
+  ##### 2) report653.html     (653AccesosaInternetfijoporvelocidaddebajadaylocalidad653.csv)
 
      Transformaciones ejecutadas
      - a) Abrir en excel y colocar texto en columnas separados por comas
@@ -49,7 +49,7 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - e) Reemplazo vacios por 0
      - f) Cambio tipo de texto a numero entero en varias columnas de tal manera que todas las que corresponden a velocidades quedan en tipo entero
 
-  3) report771.html (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
+  ##### 3) report771.html     (771AccesosaInternetfijoporvelocidadbajadayprovincia771.csv)
 
      Transformaciones ejecutadas
      - a) Abrir en excel y colocar texto en columnas separados por comas
@@ -57,7 +57,7 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - c) Cargo el archivo csv modificado en Power Query de Power Bi
      - d) Elimino ultima fila o registro [481] que esta vacio
 
-  4) report977.html (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
+  ##### 4) report977.html       (771AccesosaInternetfijoporvelocidadbajadayprovincia771.csv)
 
      Transformaciones ejecutadas
      
@@ -68,34 +68,36 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - d) Datos tipo texto y numero los cambio
      - e) Cargo el archivo csv modificado en Power Query de Power Bi
 
-  6) report300.html (300Internet_Penetracion (1).csv)
+  ##### 5) report300.html       (300Internet_Penetracion (1).csv)
 
      Transformaciones ejecutadas
      - a) Cargo el archivo csv modificado en Power Query de Power Bi
      
-  7) report301.html (301Internet_Penetracion.csv)
+  ##### 6) report301.html       (301Internet_Penetracion.csv)
 
      Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero 
      - b) Cargo el archivo csv modificado en Power Query de Power Bi
 
-  8) report400.html (400Internet_Ingresos.csv)
+  ##### 7) report400.html       (400Internet_Ingresos.csv)
 
      Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
      - b) Cargo el archivo csv modificado en Power Query de Power Bi
 
-  9) report500.html (500Internet_BAF(provincia).csv)
+  ##### 8) report500.html       (500Internet_BAF(provincia).csv)
 
      Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
      - b) Cargo el archivo csv modificado en Power Query de Power Bi
 
- 10) report501.html (501Internet_BAF.csv)
+ ##### 9) report501.html         (501Internet_BAF.csv)
    
     Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
      - b) Cargo el archivo csv modificado en Power Query de Power Bi
+
+     
     
     
 #### III.  Visualizaciones
