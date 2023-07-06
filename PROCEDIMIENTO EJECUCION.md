@@ -57,7 +57,7 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - c) Cargo el archivo csv modificado en Power Query de Power Bi
      - d) Elimino ultima fila o registro [481] que esta vacio
 
-  ##### 4) report977.html       (771AccesosaInternetfijoporvelocidadbajadayprovincia771.csv)
+  ##### 4) report977.html       (977mapa_conectividad.xlsx)
 
      Transformaciones ejecutadas
      
