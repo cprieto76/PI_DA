@@ -97,9 +97,45 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
      - b) Cargo el archivo csv modificado en Power Query de Power Bi
 
-     
-    
-    
+ ##### 10) report600.html         (600Internet_Accesos-por-velocidad(provincia).csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi   
+
+  ##### 11) report601.html         (601Internet_Accesos-por-velocidad.csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi   
+
+  ##### 12) report800.html         (800historico_velocidad_internet(provincia).csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi  
+
+  ##### 13) report801.html         (801historico_velocidad_internet.csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi 
+
+  ##### 14) report900.html         (900Internet_Accesos-por-tecnologia(provincia).csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Se borra ultima fila
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi 
+
+  ##### 15) report901.html         (901Internet_Accesos-por-tecnologia.csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Se corrigen datos numericos que tienen un asterisco (*). Se borra
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi 
+
+  *	Los datos provinciales no coinciden a nivel nacional, ya que se reincorpora informaciÃ³n que no contien apertuta a nivel geogrÃ¡fico.							
 #### III.  Visualizaciones
 
 - POWER BI
