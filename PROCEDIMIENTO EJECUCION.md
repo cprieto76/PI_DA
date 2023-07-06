@@ -152,7 +152,7 @@ Realizamos EDA con libreria de python **y_dataprofiling**
 
 2) Tasa de crecimiento de abonados: Este KPI muestra la velocidad a la que la operadora está adquiriendo nuevos abonados a lo largo del tiempo. Puedes calcularlo dividiendo el cambio neto en el número de abonados entre el número total de abonados al comienzo del período y multiplicarlo por 100 para obtener un porcentaje. Un crecimiento constante o creciente indica una demanda sostenida de los servicios de la operadora.
 
-3) 
+3) KPI basado en cobertura de los otros servicios
 
 
 
