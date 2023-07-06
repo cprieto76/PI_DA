@@ -60,16 +60,30 @@ Realizamos EDA con libreria de python **y_dataprofiling**
   4) report977.html (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
 
      Transformaciones ejecutadas
-     - a) Cargo el archivo csv modificado en Power Query de Power Bi
-     - b) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
+     
+     - a) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
          dentro de la URL:https://datosabiertos.enacom.gob.ar/visualizations/29951/conectividad-al-servicio-de-internet/
+     - b) Corregir valores mal digitados en campos Latitud y Longitud
+     - c) Tipo de dato y signo menos de Latitud y Longitud convertir a numero
+     - d) Datos tipo texto y numero los cambio
+     - e) Cargo el archivo csv modificado en Power Query de Power Bi
 
-  5) report300.html (300Internet_Penetracion (1).csv)
+  6) report300.html (300Internet_Penetracion (1).csv)
 
      Transformaciones ejecutadas
      - a) Cargo el archivo csv modificado en Power Query de Power Bi
-     - b) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
-         dentro de la URL:https://datosabiertos.enacom.gob.ar/visualizations/29951/conectividad-al-servicio-de-internet/
+     
+  7) report301.html (301Internet_Penetracion.csv)
+
+     Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero 
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi
+
+  8) report400.html (400Internet_Ingresos.csv)
+
+     Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi
     
 #### III.  Visualizaciones
 
