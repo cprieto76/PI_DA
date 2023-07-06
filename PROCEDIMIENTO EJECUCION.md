@@ -135,7 +135,7 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      - b) Se corrigen datos numericos que tienen un asterisco (*). Se borra
      - b) Cargo el archivo csv modificado en Power Query de Power Bi 
 
-  *	Los datos provinciales no coinciden a nivel nacional, ya que se reincorpora informaciÃ³n que no contien apertuta a nivel geogrÃ¡fico.
+  *	Los datos provinciales no coinciden a nivel nacional, ya que se reincorpora informacionn que no contiene apertura a nivel geografico.
 
   ##### 16) report185.html (5) (185Listadodelocalidadesconconectividadainternet185.csv)
 
@@ -148,7 +148,11 @@ Realizamos EDA con libreria de python **y_dataprofiling**
 
 #### IV.   Definicion de KPI's
 
-- 
+1) ARPU (Average Revenue Per User, por sus siglas en inglés): El ARPU mide los ingresos promedio generados por cada abonado. Puedes calcularlo dividiendo los ingresos totales de los servicios de telecomunicaciones entre el número total de abonados durante un período determinado.
+
+2) Tasa de crecimiento de abonados: Este KPI muestra la velocidad a la que la operadora está adquiriendo nuevos abonados a lo largo del tiempo. Puedes calcularlo dividiendo el cambio neto en el número de abonados entre el número total de abonados al comienzo del período y multiplicarlo por 100 para obtener un porcentaje. Un crecimiento constante o creciente indica una demanda sostenida de los servicios de la operadora.
+
+3) 
 
 
 
