@@ -84,6 +84,19 @@ Realizamos EDA con libreria de python **y_dataprofiling**
      Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
      - b) Cargo el archivo csv modificado en Power Query de Power Bi
+
+  9) report500.html (500Internet_BAF(provincia).csv)
+
+     Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi
+
+ 10) report501.html (501Internet_BAF.csv)
+   
+    Transformaciones ejecutadas
+     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi
+    
     
 #### III.  Visualizaciones
 
