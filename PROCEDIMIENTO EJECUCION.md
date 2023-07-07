@@ -72,15 +72,7 @@ El analisis detallado variable por variable se realiza en una segunda fase, lueg
 
   ##### 5) report300.html       (300Internet_Penetracion (1).csv)
 
-     Revision
-  - a) Se revisa variable por variable.
-  - b) Tipo de dato de "Accesos por cada 100 hogares" se cambia de Date Numerico en Excel
-  - c) Se revisan Outliers en "Accesos por cada 100 hogares"
-    Q1-1.5IQR    =33.38
-  - Q3+1.5IQR    =85.65
-  **No se encuentran outliers**
-     - a) Cargo el archivo csv modificado en Power Query de Power Bi
-     
+          
   ##### 6) report301.html       (301Internet_Penetracion.csv)
 
      Transformaciones ejecutadas
@@ -151,7 +143,7 @@ El analisis detallado variable por variable se realiza en una segunda fase, lueg
 
 #### III.  Segunda Revision General EDA 2 (Exploratory Data Analysis
 
-Con esta libreria volvemos a generar los reportes html y revisamos variable por variable 
+Con esta libreria volvemos a generar los reportes html y revisamos variable por variable. (Outliers y Correlaciones)
 
 ##### 1) report700.html .    (700AccesosaInternetfijoportecnologiaylocalidad700.csv)
 
@@ -191,8 +183,19 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
   ##### 5) report300.html       (300Internet_Penetracion (1).csv)
 
-     Transformaciones ejecutadas
+     Revision
+  - a) Se revisa variable por variable
+    Tipo de dato
+  - b) Tipo de dato de "Accesos por cada 100 hogares" se cambia de Date a Numerico en Excel
+  - **OUTLIERS**
+  - c) Se revisan Outliers en "Accesos por cada 100 hogares"
+    Q1-1.5IQR    =33.38
+  - Q3+1.5IQR    =85.65
+  **No se encuentran outliers**
+  - d) Tampoco hay **outliers** para "Accesos por cada 100 hab"
+    
      - a) Cargo el archivo csv modificado en Power Query de Power Bi
+
      
   ##### 6) report301.html       (301Internet_Penetracion.csv)
 
