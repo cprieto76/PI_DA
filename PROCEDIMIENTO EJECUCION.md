@@ -159,15 +159,9 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
   ##### 2) report653.html     (653AccesosaInternetfijoporvelocidaddebajadaylocalidad653.csv)
 
-     Transformaciones ejecutadas
-     - a) Abrir en excel y colocar texto en columnas separados por comas
-     - b) Reemplazo coma con vacios o dejando la casilla vacia
-     - c) Cargo el archivo csv modificado en Power Query de Power Bi
-     - d) Reemplazo null por 0 por si acaso hay que hacer alguna operacion sobre estas filas
-     - e) Reemplazo vacios por 0
-     - f) Cambio tipo de texto a numero entero en varias columnas de tal manera que todas las que corresponden a velocidades quedan en tipo entero
+     Este archivo se va a descartar para el analisis y cargue en POWER BI ya que tenemos el report600 (Provincias y rangos de velocidad) y el report771 (Provincia y        velocidades individuales
 
-  ##### 3) report771.html     (771AccesosaInternetfijoporvelocidadbajadayprovincia771.csv)
+  ##### 3) report771.html     (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
 
      Transformaciones ejecutadas
      - a) Abrir en excel y colocar texto en columnas separados por comas
