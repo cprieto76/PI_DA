@@ -159,7 +159,7 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
   ##### 2) report653.html     (653AccesosaInternetfijoporvelocidaddebajadaylocalidad653.csv)
 
-     Este archivo se va a descartar para el analisis y cargue en POWER BI ya que tenemos el report600 (Provincias y rangos de velocidad) y el report771 (Provincia y        velocidades individuales
+     Este archivo se va a descartar para el analisis y cargue en POWER BI ya que tenemos el report600 (Provincias y rangos de velocidad) y el report771 (Provincia y        velocidades individuales) que pueden suplir la informacion para nuestro analisis
 
   ##### 3) report771.html     (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
 
