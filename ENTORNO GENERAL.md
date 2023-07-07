@@ -12,7 +12,8 @@
 -     d) Ciudad Autónoma de Buenos Aires	3.120.612
 -     e) Mendoza	                        2.014.533
 
-mapapoliticoargentina.jpeg
+![image](https://github.com/cprieto76/PI_DA/assets/mapapoliticoargentina.jpeg)
+
 
 - Area (Km2) :             2.780.400
 - Hab/Km2:                 16.56
