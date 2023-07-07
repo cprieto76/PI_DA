@@ -10,7 +10,10 @@
 -     b) Córdoba	                        3.978.984
 -     c) Santa Fe	                        3.556.522
 -     d) Ciudad Autónoma de Buenos Aires	3.120.612
-- 
+-     e) Mendoza	                        2.014.533
+
+mapapoliticoargentina.jpeg
+
 - Area (Km2) :             2.780.400
 - Hab/Km2:                 16.56
 - Poblacion Urbana (%):    92
