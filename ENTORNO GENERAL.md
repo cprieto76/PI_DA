@@ -15,7 +15,8 @@
   b) Córdoba	                        3.978.984  
   c) Santa Fe	                        3.556.522  
   d) Ciudad Autónoma de Buenos Aires	3.120.612  
-  e) Mendoza	                        2.014.533  
+  e) Mendoza	                        2.014.533
+  Total de las 5 pobladas = 30.239.704 (66%)
 
 <p align='center'>
 
@@ -41,8 +42,8 @@
 ### Velocidades medias de internet
 
 #### Internet de banda ancha
-- 61,19 Mbit/segundo; velocidad descarga (Puesto 69 a nivel mundial)
-- 25,82 Mbit/segundo; velocidad de subida (Puesto 78°).
+- 61,19 Mbps; velocidad descarga (Puesto 69 a nivel mundial)
+- 25,82 Mbps velocidad de subida (Puesto 78°).
 
 #### Internet móvil (tabletas y smartphones) 
 - 24,25 Mbit/segundo; velocidad descarga (Puesto 92)
