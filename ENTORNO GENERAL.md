@@ -33,7 +33,7 @@
 - Inflacion:               94,8%
 - Idioma:                  Español (97%)
 
-## Sector Telecomunicacioens Argentina
+## Sector Telecomunicaciones Argentina
 
 ### Media de conexiones Argentina
 
