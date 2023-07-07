@@ -72,7 +72,13 @@ El analisis detallado variable por variable se realiza en una segunda fase, lueg
 
   ##### 5) report300.html       (300Internet_Penetracion (1).csv)
 
-     Transformaciones ejecutadas
+     Revision
+  - a) Se revisa variable por variable.
+  - b) Tipo de dato de "Accesos por cada 100 hogares" se cambia de Date Numerico en Excel
+  - c) Se revisan Outliers en "Accesos por cada 100 hogares"
+    Q1-1.5IQR    =33.38
+  - Q3+1.5IQR    =85.65
+  **No se encuentran outliers**
      - a) Cargo el archivo csv modificado en Power Query de Power Bi
      
   ##### 6) report301.html       (301Internet_Penetracion.csv)
