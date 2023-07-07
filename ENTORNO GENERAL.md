@@ -4,11 +4,11 @@
 ###  Argentina
 - Poblacion:               46.044.703 (Instituto Nacional de Estadística y Censos (Indec)) Mayo.2020
 - Ciudades mas pobladas:  
-  1º Buenos Aires – 3 108 000 hab  
-  2º Córdoba – 1 488 000 hab  
-  3º Rosario – 1 307 000 hab    
-  4º La Plata – 743 000 hab  
-  5º Mar del Plata – 670 000 hab  
+  a) Buenos Aires – 3 108 000 hab  
+  b) Córdoba – 1 488 000 hab  
+  c) Rosario – 1 307 000 hab    
+  d) La Plata – 743 000 hab  
+  e) Mar del Plata – 670 000 hab  
   
 - Provincias mas pobladas:  
   a) Buenos Aires	                    17.569.053  
@@ -17,9 +17,9 @@
   d) Ciudad Autónoma de Buenos Aires	3.120.612  
   e) Mendoza	                        2.014.533  
 
+<p align='center'>
 
 <img src="imagenes/mapapoliticoargentina.jpeg" alt="Texto alternativo" width="375" height="574">
-
 
 - Area (Km2) :             2.780.400
 - Hab/Km2:                 16.56
