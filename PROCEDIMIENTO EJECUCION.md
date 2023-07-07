@@ -72,6 +72,10 @@ El analisis detallado variable por variable se realiza en una segunda fase, lueg
 
   ##### 5) report300.html       (300Internet_Penetracion (1).csv)
 
+      Transformaciones ejecutadas
+  
+     - a) Abrir en excel y cambio tipo de dato de texto a numero 
+     - b) Cargo el archivo csv modificado en Power Query de Power Bi
           
   ##### 6) report301.html       (301Internet_Penetracion.csv)
 
@@ -147,10 +151,11 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
 ##### 1) report700.html .    (700AccesosaInternetfijoportecnologiaylocalidad700.csv)
 
-     Transformaciones ejecutadas
-     - a) Eliminacion columna 13
-     - b) Cambio valores -0 a 0
-     - c) Cambio tipo de texto a numero entero en casi todas las columnas quedando las columnas de la tecnologia especifica todas con ese tipo
+    Revision  
+    - a) Se revisa variable por variable  
+    Tipo de dato  
+    - b) Tipo de dato se cambia para todas las tecnologias de texto a numero en Excel  
+    
 
   ##### 2) report653.html     (653AccesosaInternetfijoporvelocidaddebajadaylocalidad653.csv)
 
@@ -193,8 +198,7 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
   - Q3+1.5IQR    =85.65
   **No se encuentran outliers**
   - d) Tampoco hay **outliers** para "Accesos por cada 100 hab"
-    
-     - a) Cargo el archivo csv modificado en Power Query de Power Bi
+  - e) Cargo el archivo csv modificado en Power Query de Power Bi
 
      
   ##### 6) report301.html       (301Internet_Penetracion.csv)
