@@ -15,8 +15,9 @@
   b) Córdoba	                        3.978.984  
   c) Santa Fe	                        3.556.522  
   d) Ciudad Autónoma de Buenos Aires	3.120.612  
-  e) Mendoza	                        2.014.533
-  Total de las 5 pobladas = 30.239.704 (66%)
+  e) Mendoza	                        2.014.533  
+
+  Total de las 5 provincias mas pobladas = 30.239.704 (66%)
 
 <p align='center'>
 
