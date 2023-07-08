@@ -24,7 +24,6 @@
 
 #### I.    Extraccion de Datos
 
-Ejecutamos 
 #### II.   Primera Revision General EDA 1 (Exploratory Data Analysis)
 
 Realizamos EDA con libreria de python **y_dataprofiling** centrandonos en Overview (Filas Duplicadas, Tipos de Datos, , Celdas Vacias, Ceros) y Alertas (Variables sin Nombre, Valores Unicos, Zeros, Valores faltantes, Valores Unicos).
@@ -193,8 +192,18 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
     - Se realizan la revision variable por variable luego de cambiar datos de tipo texto a numerico
     - Se encuentran porcentajes de penetracion superiores al 100% que segun fuente consultada  
-      (*https://chequeado.com/ultimas-noticias/gladys-gonzalez-en-argentina-1-de-cada-3-hogares-no-tiene-acceso-a-internet/*) se debe a que los prestadores   
-      de servicios reportan la cantidad de accesos de Enacom de los cuales muchos son comercios o empresas. 
+      (https://chequeado.com/ultimas-noticias/gladys-gonzalez-en-argentina-1-de-cada-3-hogares-no-tiene-acceso-a-internet/) se debe a que los prestadores   
+      de servicios reportan la cantidad de accesos de Enacom de los cuales muchos son comercios o empresas.  
+
+      Que hace falta para tener datos mas fidedignos:  
+      
+      - Saber cuantos comercios o empresas acceden a banda ancha (Se disminuirian accesos a hogares)
+      - Saber cuales de esos comercio o empresas no estan integrados a propiedades que tambien funcionan como hogares (Aumentarian accesos a hogares)
+      - Poder acceder al 100% de las empresas prestadoras de servicios telcom (Aumentarian accesos a hogares)
+      - Subdeclaración de clientes por muchas empresas (Aumentarian accesos a hogares)
+      
+      
+      
     
 
   ##### 7) report400.html       (400Internet_Ingresos.csv)
