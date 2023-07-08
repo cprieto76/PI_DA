@@ -169,15 +169,9 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
      - c) Cargo el archivo csv modificado en Power Query de Power Bi
      - d) Elimino ultima fila o registro [481] que esta vacio
 
-  ##### 4) report977.html       (977mapa_conectividad.xlsx)
+  ##### 4) report977.html       (977mapa_conectividad.xlsx)  
 
-     Transformaciones ejecutadas
-     
-     - a) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
-         dentro de la URL:https://datosabiertos.enacom.gob.ar/visualizations/29951/conectividad-al-servicio-de-internet/
-     - b) Corregir valores mal digitados en campos Latitud y Longitud
-     - c) Tipo de dato y signo menos de Latitud y Longitud convertir a numero
-     - d) Datos tipo texto y numero los cambio
+     -  Pendiente revisarcambiamos los SI por 1 y los vacios por 0 
      - e) Cargo el archivo csv modificado en Power Query de Power Bi
 
   ##### 5) report300.html       (300Internet_Penetracion (1).csv)
