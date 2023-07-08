@@ -188,8 +188,7 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
   - d) Tampoco hay **outliers** para "Accesos por cada 100 hab"
   - e) Cargo el archivo csv modificado en Power Query de Power Bi
 
-     
-  ##### 6) report301.html       (301Internet_Penetracion.csv)
+    ##### 6) report301.html       (301Internet_Penetracion.csv)
 
     - Se realizan la revision variable por variable luego de cambiar datos de tipo texto a numerico
     - Se encuentran porcentajes de penetracion superiores al 100% que segun fuente consultada  
@@ -206,10 +205,13 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
   ##### 7) report400.html       (400Internet_Ingresos.csv)
 
      Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi
+     - a) Abrir en excel y adiciono dos columnas, "Incremento Neto" e "Incremento Porcentual"
+     - b) Genero reporte html  y reviso Alertas variable por variable
+     - c) Cargo el archivo csv modificado en Power Query de Power Bi
 
   ##### 8) report500.html       (500Internet_BAF(provincia).csv)
+
+  El porcentaje de Banda ancha respecto a Dial Up esta entre el 97 y 100%
 
      Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
