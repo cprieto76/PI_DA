@@ -63,7 +63,7 @@ El analisis detallado variable por variable se realiza en una segunda fase, lueg
 
      Transformaciones ejecutadas
      
-     - a) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo mapa_conectividad.xls
+     - a) Coloco nombres de campos que no aparecen. Los nombres de esos campos se encuentran en archivo *mapa_conectividad.xls*  
          dentro de la URL:https://datosabiertos.enacom.gob.ar/visualizations/29951/conectividad-al-servicio-de-internet/
      - b) Corregir valores mal digitados en campos Latitud y Longitud
      - c) Tipo de dato y signo menos de Latitud y Longitud convertir a numero
