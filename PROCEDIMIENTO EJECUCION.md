@@ -158,7 +158,8 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
   ##### 2) report653.html     (653AccesosaInternetfijoporvelocidaddebajadaylocalidad653.csv)
 
-     Este archivo se va a descartar para el analisis y cargue en POWER BI ya que tenemos el report600 (Provincias y rangos de velocidad) y el report771 (Provincia y        velocidades individuales) que pueden suplir la informacion para nuestro analisis
+     Este archivo se va a descartar para el analisis y cargue en POWER BI ya que tenemos el report600 (Provincias y rangos de velocidad) y  
+     el report771 (Provincia y velocidades individuales) que pueden suplir la informacion para nuestro analisis
 
   ##### 3) report771.html     (AccesosaInternetfijoporvelocidadbajadayprovincia_2791741688443333771.csv)
 
@@ -200,11 +201,7 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
       - Saber cuantos comercios o empresas acceden a banda ancha (Se disminuirian accesos a hogares)
       - Saber cuales de esos comercio o empresas no estan integrados a propiedades que tambien funcionan como hogares (Aumentarian accesos a hogares)
       - Poder acceder al 100% de las empresas prestadoras de servicios telcom (Aumentarian accesos a hogares)
-      - Subdeclaración de clientes por muchas empresas (Aumentarian accesos a hogares)
-      
-      
-      
-    
+      - Subdeclaración de clientes por muchas empresas (Aumentarian accesos a hogares)    
 
   ##### 7) report400.html       (400Internet_Ingresos.csv)
 
