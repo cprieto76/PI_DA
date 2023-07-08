@@ -193,7 +193,7 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
     - Se realizan la revision variable por variable luego de cambiar datos de tipo texto a numerico
     - Se encuentran porcentajes de penetracion superiores al 100% que segun fuente consultada 
-    - (*https://chequeado.com/ultimas-noticias/gladys-gonzalez-en-argentina-1-de-cada-3-hogares-no-tiene-acceso-a-internet/*) se debe a los prestadores de servicios         reportan la cantidad de accesos de Enacom de los cuales muchos son comercios o empresas. 
+    - (*https://chequeado.com/ultimas-noticias/gladys-gonzalez-en-argentina-1-de-cada-3-hogares-no-tiene-acceso-a-internet/*) se debe a los prestadores de servicios          reportan la cantidad de accesos de Enacom de los cuales muchos son comercios o empresas. 
     
 
   ##### 7) report400.html       (400Internet_Ingresos.csv)
