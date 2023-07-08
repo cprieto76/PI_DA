@@ -30,7 +30,7 @@ Usuarios Free (libres)
 
 **Banda ancha**: por lo general, en este tipo de conexión los usuarios tienen acceso permanente a Internet, aunque recientemente se han incorporado modalidades de contratación limitados a determinadas bandas horarias. El abonado a este tipo de servicio no paga pulsos telefónicos. Entre las modalidades del mismo pueden señalarse:
 
-**DSL - Digital Subscriber Line (línea de abonado digital)**: la conexión se realiza mediante el cableado de los operadores telefónicos. Existen distintos tipos de DSL, que presentan diferentes alternativas y velocidades deacceso a Internet, entre las cuales la más frecuente en la República Argentina es el ADSL.
+**DSL - Digital Subscriber Line (línea de abonado digital)**: la conexión se realiza mediante el cableado de los operadores telefónicos. Existen distintos tipos de DSL, que presentan diferentes alternativas y velocidades de acceso a Internet, entre las cuales la más frecuente en la República Argentina es el ADSL.
 
 **Cablemódem**: la conexión se realiza mediante cable coaxial, aprovechando el cableado de los operadores de cable.
 
