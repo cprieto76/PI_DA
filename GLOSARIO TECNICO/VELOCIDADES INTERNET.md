@@ -5,5 +5,5 @@
 
 <p align='center'>
 
-<img src="GLOSARIO TECNICO/IMAGENES/tecnologias internet.jpg" alt="Texto alternativo" width="375" height="574">
+<img src="IMAGENES/tecnologias internet.jpg" alt="Texto alternativo" width="375" height="574">
 
