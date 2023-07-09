@@ -211,13 +211,9 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
   ##### 8) report500.html       (500Internet_BAF(provincia).csv)
 
-  El porcentaje de Banda ancha respecto a Dial Up esta entre el 97 y 100%
+  El porcentaje de Banda ancha respecto a Dial Up es del 97 al 100%
 
-     Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi
-
- ##### 9) report501.html         (501Internet_BAF.csv)
+  ##### 9) report501.html         (501Internet_BAF.csv)
    
     Transformaciones ejecutadas
      - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
