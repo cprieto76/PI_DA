@@ -1,6 +1,7 @@
-<p align='center'>
+<h1 align='center'>
+ <b>Comparacion distintas tecnologias para conexion a Internet</b>
+</h1>
 
-### Comparacion distintas tecnologias para conexion a Internet
 
 <p align='center'>
 
