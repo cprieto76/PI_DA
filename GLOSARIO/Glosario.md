@@ -37,3 +37,4 @@ Usuarios Free (libres)
 **Conexión Satelital o Inalámbrica (Wireless)**: en este caso la transmisión es realizada por medio de un satélite que es alquilado por el ISP o bien por un acceso inalámabrico, que conecta al usuario con el ISP mediante una antena satelital instalada en su domicilio.
 
 **Líneas punto a punto**: son enlaces dedicados con conexiones punto a punto, punto a multipunto, etc.
+
