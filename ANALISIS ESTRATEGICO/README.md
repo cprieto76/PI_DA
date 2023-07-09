@@ -17,7 +17,7 @@ En un mercado competitivo, los clientes tienen cierto poder de negociación, ya 
 
 ### PESTEL para una empresa de telecomunicaciones en Argentina:
 
-##### Político:
+#### Político:
 Marco regulatorio: Las políticas y regulaciones del gobierno argentino pueden tener un impacto significativo en la industria de las telecomunicaciones. Cambios en las leyes y regulaciones pueden afectar la competencia, las tarifas, la inversión en infraestructura y la entrada de nuevos competidores.
 Estabilidad política: La estabilidad política y la certidumbre jurídica son factores clave para la inversión y el crecimiento en el sector de las telecomunicaciones. Los cambios políticos pueden tener un impacto en la confianza de los inversores y en la dirección de las políticas relacionadas con las telecomunicaciones.
 #### Económico:
