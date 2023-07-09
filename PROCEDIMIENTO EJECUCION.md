@@ -215,9 +215,7 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
   ##### 9) report501.html         (501Internet_BAF.csv)
    
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi
+    - Agregamos dos columnas: "Incremento Porcentual Banda Ancha", "Incremento Porcentual Dial Up"
 
  ##### 10) report600.html         (600Internet_Accesos-por-velocidad(provincia).csv)
    
