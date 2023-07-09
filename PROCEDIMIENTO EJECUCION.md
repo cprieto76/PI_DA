@@ -219,42 +219,28 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
  ##### 10) report600.html         (600Internet_Accesos-por-velocidad(provincia).csv)
    
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi   
+    - Se genera reporte sin ninguna novedad
 
   ##### 11) report601.html         (601Internet_Accesos-por-velocidad.csv)
-   
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi   
 
+    - Se genera reporte sin ninguna novedad
+    
   ##### 12) report800.html         (800historico_velocidad_internet(provincia).csv)
    
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi  
+    - Se genera reporte sin ninguna novedad
 
   ##### 13) report801.html         (801historico_velocidad_internet.csv)
    
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi 
+    - Agregamos columna: "Incremento Porcentual"
 
   ##### 14) report900.html         (900Internet_Accesos-por-tecnologia(provincia).csv)
    
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Se borra ultima fila
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi 
+    - Se genera reporte sin ninguna novedad
 
   ##### 15) report901.html         (901Internet_Accesos-por-tecnologia.csv)
    
-    Transformaciones ejecutadas
-     - a) Abrir en excel y cambio tipo de dato de texto a numero y al contrario
-     - b) Se corrigen datos numericos que tienen un asterisco (*). Se borra
-     - b) Cargo el archivo csv modificado en Power Query de Power Bi 
-
+   - Agregamos 6 columnas de incremento porcentual por trimestre para cada tecnologia
+    
 #### IV.  Visualizaciones
 
 - POWER BI
