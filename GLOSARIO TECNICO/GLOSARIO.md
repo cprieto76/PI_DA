@@ -1,4 +1,5 @@
-### Definiciones y conceptos (https://www.estadisticaciudad.gob.ar/eyc/publicaciones/anuario_2005/Cd_Cap13/dyc13.htm#:~:text=Dial%2DUp%3A%20son%20conexiones%20que,servicio%20de%20acceso%20a%20Internet)
+### Definiciones y conceptos  
+(https://www.estadisticaciudad.gob.ar/eyc/publicaciones/anuario_2005/Cd_Cap13/dyc13.htm#:~:text=Dial%2DUp%3A%20son%20conexiones%20que,servicio%20de%20acceso%20a%20Internet)
 
 **Comunicaciones**: las líneas instaladas representan la cantidad de líneas disponibles técnicamente para ser puestas en servicio. Las líneas en servicio son aquellas líneas que están en funcionamiento. Los abonados de telefonía celular corresponden al Área MúltipleBuenos Aires que incluye Capital Federal y los partidos de Almirante Brown, Esteban Echeverría, Malvinas Argentinas, San Miguel, José C. Paz, Lomas de Zamora, San Fernando, Tres de Febrero, Avellaneda, Florencio Varela, La Matanza (cobertura parcial), Morón, Ituzaingó, Hurlingham, San Isidro, Vicente López, Berazategui (cobertura parcial), General San Martín, Lanús, Quilmes y Tigre (cobertura parcial).
 
