@@ -23,5 +23,12 @@
 
    https://onuhabitat.org.mx/como-definir-ciudades-pueblos-y-areas-rurales
 
+   Los supuestos que se hagan para definir este KPI deben ser medidos año por año para asegurarse que el KPI esta bien definido o sea que lo que estamos midiendo          apunta hacia el modelo predicho.
+
+      MODELO PREDICHO DE NEGOCIO
+
+      MODELO PREDICHO DE URBANIZACION
+   
+
    
 
