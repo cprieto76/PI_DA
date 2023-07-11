@@ -1,3 +1,8 @@
+Premisas de las cuales se parte para definir KPI Numero 2
+
+1) Se busca cre
+
+
 Oct.2022. 56% de la poblacion vive en ciudades. 4400 millonesde hab.
 2050. 70% poblacion urbana. 7 de cada 10 hab.
 80% de PIB se genera en ciudades
