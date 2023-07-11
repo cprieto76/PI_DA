@@ -17,5 +17,11 @@
    Se categorizan ciudades en tres grupos como aquellas que tienen una cantidad de poblacion mayor a un numero y con una densidad de poblacion y que esten ubicados
    en provincias con una densidad alta.
 
+   https://www.bancomundial.org/es/topic/urbandevelopment/overview#:~:text=En%20la%20actualidad%2C%20alrededor%20del,de%20habitantes%E2%80%94%20vive%20en%20ciudades.
+
+   http://habitat.aq.upm.es/tydu/atydu_1.html
+
+   https://onuhabitat.org.mx/como-definir-ciudades-pueblos-y-areas-rurales
+
    
 
