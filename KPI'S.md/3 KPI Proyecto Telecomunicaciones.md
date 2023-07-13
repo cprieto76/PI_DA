@@ -1,6 +1,6 @@
 ### PROYECTO EMPRESA DE TELECOMUNICACIONES ARGENTINA
 
-Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una empresa prestadora de servicios de internet y a partir de la información disponible para su procesamiento (transformacion, limpieza)
+Se definen 3 KPI's en base al tiempo de entrega del proyecto, impacto sobre una empresa prestadora de servicios de internet y a partir de la información disponible para su procesamiento (transformacion, limpieza)
 
 
 1) **ARPU (AVERAGE REVENUE PER USER)**  
@@ -14,7 +14,7 @@ Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una 
    Esta velocidad minima debe ser evaluada con encuestas a los hogares que permita saber la satisfaccion del cliente respecto a sus habitos de consumo y su experiencia 
    como usuario del servicio, en terminos de velocidad de bajada y subida de informacion a la red, estabilidad de la conexion y su latencia.
 
-4) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
+3) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
 
    Se categorizan provincias en base al tamaño de la poblacion y a la densidad de las mismas. 
 
@@ -28,7 +28,7 @@ Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una 
    b) Semidensa  
    c) No densa
 
-   Previamente a la definicion de este KPI se consultaron las siguientes 
+   Previamente a la definicion de este KPI se consultaron las siguientes fuentes que permitieron entender la proyeccion que puede tener un negocio de suministro de internet con enfasis en tecnologias de red (Dial Up, ADSL, Fibra Optica), y Wireless (2G, 3G, 4G, 5G, 6G, Satelital n las unidades territoriales 
    
    https://www.bancomundial.org/es/topic/urbandevelopment/overview#:~:text=En%20la%20actualidad%2C%20alrededor%20del,de%20habitantes%E2%80%94%20vive%20en%20ciudades.
 
@@ -38,6 +38,7 @@ Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una 
 
    Los supuestos que se hagan para definir este KPI deben ser medidos año por año para asegurarse que el KPI esta bien definido o sea que lo que estamos midiendo          apunta hacia el modelo predicho.
 
-   HIPOTESIS DE TRABAJO
+   **HIPOTESIS DE TRABAJO**
 
-   - Las ciudades entre mas grandes y densas sean seran mas atractivas para el suministro de un servicio de internet ya que poseen la infraestructura fisica (vias, canalizaciones, centrales de operacion), recursos humanos calificados , recursos materiales y nivel socioeconomico de sus habitantes que exigue el uso de internet y permite asi mismo que haha parte de su canasta familiar, 
+   - Las ciudades entre mas grandes y densas sean seran mas atractivas para el suministro de un servicio de internet ya que poseen la infraestructura fisica (vias,          canalizaciones, centrales de operacion), recursos humanos calificados , recursos materiales y nivel socioeconomico de sus habitantes que exigue el uso de internet 
+     y permite asi mismo que haga parte de su canasta familiar, 
