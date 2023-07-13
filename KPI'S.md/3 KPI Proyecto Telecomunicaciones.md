@@ -10,11 +10,11 @@ Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una 
 2) **VELOCIDAD PROMEDIO DE DESCARGA**
 
    La velocidad de descarga tendra que ser superior mayor a 70 Mbps al finalizar 2023 y cada año tendra que ir aumentando segun estadisticas actuales y previsiones de       nuevas tecnologias.
-   Esta velocidad debe ser evaluada con encuestas a los hogares que permita saber la satisfaccion del cliente al respecto.
 
-   Adicionalmente se deben revisar las necesidades de bajada que se impongan entre los consumidores del mercado para poder preveer y otorgar una satisfaccion que el       mismo cliente no alcance a percibir pero que cuando la experimenta descubre lo que es un plus en el servicio
+   Esta velocidad minima debe ser evaluada con encuestas a los hogares que permita saber la satisfaccion del cliente respecto a sus habitos de consumo y su experiencia 
+   como usuario del servicio, en terminos de velocidad de bajada y subida de informacion a la red, estabilidad de la conexion y su latencia.
 
-3) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
+4) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
 
    Se categorizan provincias en base al tamaño de la poblacion y a la densidad de las mismas. 
 
