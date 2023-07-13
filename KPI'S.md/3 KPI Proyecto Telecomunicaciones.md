@@ -1,6 +1,8 @@
 ### PROYECTO EMPRESA DE TELECOMUNICACIONES ARGENTINA
 
-Se 
+Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una empresa prestadora de servicios de internet y a partir de la información disponible para su procesamiento (transformacion, limpieza)
+
+
 1) **ARPU (AVERAGE REVENUE PER USER)**  
 
    Ingresos Generados / Numero de Abonados  
