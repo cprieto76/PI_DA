@@ -1,6 +1,6 @@
 ### PROYECTO EMPRESA DE TELECOMUNICACIONES ARGENTINA
 
-
+Se 
 1) **ARPU (AVERAGE REVENUE PER USER)**  
 
    Ingresos Generados / Numero de Abonados  
@@ -12,7 +12,7 @@
 
    Adicionalmente se deben revisar las necesidades de bajada que se impongan entre los consumidores del mercado para poder preveer y otorgar una satisfaccion que el       mismo cliente no alcance a percibir pero que cuando la experimenta descubre lo que es un plus en el servicio
 
-3) **COBERTURA CIUDADES GRANDES / COBERTURA CIUDADES MEDIANAS Y PEQUEÑAS**
+3) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
 
    Se categorizan provincias en base al tamaño de la poblacion y a la densidad de las mismas. 
 
