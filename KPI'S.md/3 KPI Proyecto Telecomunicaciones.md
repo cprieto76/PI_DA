@@ -18,14 +18,14 @@ Se definen 4 KPI's en base al tiempo de entrega del proyecto, impacto sobre una 
 
    Se categorizan provincias en base al tamaño de la poblacion y a la densidad de las mismas. 
 
-   Se clasifican las provincias por tamaño de poblacion en 3 categorias
-   a) Poblada
-   b) Semipoblada
-   c) Despoblada
+   Se clasifican las provincias por tamaño de poblacion en 3 categorias  
+   a) Poblada  
+   b) Semipoblada  
+   c) Despoblada  
 
-   Se clasifican las provincias por densidad de poblacion en 3 categorias
-   a) Densa
-   b) Semidensa
+   Se clasifican las provincias por densidad de poblacion en 3 categorias  
+   a) Densa  
+   b) Semidensa  
    c) No densa
 
    Previamente a la definicion de este KPI se consultaron las siguientes 
