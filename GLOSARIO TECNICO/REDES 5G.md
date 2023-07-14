@@ -7,7 +7,8 @@ Debido al impacto que puede generar el desarrollo de las redes 5G en el mercado 
 
 ## Puntos a destacar
 
-- 
+- En este momento a Julio de 2023 Argentina esta a la espera de la licitacion para adjudicar 300 MHz de espectro en la banda de 3.3-3.6 GHz.
+- Los operadores desconocen cuál será la naturaleza de la subasta en la licitación, si tendrá un espíritu meramente recaudador o por el contrario se privilegiará la inversión en infraestructura
 
  #### El despliegue de 5G, por quién y para que en Argentina. 
  (https://www.ambito.com/tecnologia/argentina/el-despliegue-5g-quien-y-que-n5587746) 19 de noviembre 2022
