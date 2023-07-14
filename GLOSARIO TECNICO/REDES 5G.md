@@ -8,7 +8,10 @@ Debido al impacto que puede generar el desarrollo de las redes 5G en el mercado 
 ## Puntos a destacar
 
 - En este momento a Julio de 2023 Argentina esta a la espera de la licitacion para adjudicar 300 MHz de espectro en la banda de 3.3-3.6 GHz.
-- Los operadores desconocen cuál será la naturaleza de la subasta en la licitación, si tendrá un espíritu meramente recaudador o por el contrario se privilegiará la inversión en infraestructura
+- La inversión en una red 5G involucra grandes costos hundidos y largos periodos de recuperación de la inversión
+- El 5G traerá grandes oportunidades para las empresas y tecnologías disruptivas como: Internet de las Cosas, Realidad virtual, Realidad aumentada, Manejo Autonomo, Logistica Inteligente
+- La licitacion se definira segun la politica que puede ser con enfasis recaudatorio o con enfasis de inversion y productividad. EL gobierno puede exiguir grandes pagos iniciales o pagos periodicos que faciliten las inversiones en infraestructura
+- Para el 2023, Telecom tiene previsto ampliar la red 5G, que ya cuenta con 180 sitios on air bajo la modalidad DSS (Dynamic Spectrum Sharing). Esta red ya está presente en las principales ciudades del país
 
  #### El despliegue de 5G, por quién y para que en Argentina. 
  (https://www.ambito.com/tecnologia/argentina/el-despliegue-5g-quien-y-que-n5587746) 19 de noviembre 2022
