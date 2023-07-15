@@ -22,4 +22,10 @@ d) Empleo
 
 ### Riesgos Especificos Argentina
 
+[httpss://www.bloomberglinea.com/2023/01/11/5-riesgos-clave-que-enfrenta-argentina-desde-2023-segun-el-foro-economico-mundial/]
 
+1. Inflacion rapida y sostenida
+2. Crisis de deuda
+3. Proliferacion de actividades economicas ilicitas
+4. Colapso del Estado (erosion de instituciones y estado de Derecho, disturbios civiles internos y golpes militares, efectos de una grave inestabilidad regional o mundial
+5. Crisis grave de suministro de suministro de materias primas
