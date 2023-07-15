@@ -5,7 +5,7 @@ Se definen 3 KPI's en base al tiempo de entrega del proyecto, impacto sobre una 
 
 1) **ARPU (AVERAGE REVENUE PER USER)**  
 
-   Ingresos Generados / Numero de Abonados  
+   Ingresos Generados / Numero de Accesos debe  
 
 2) **VELOCIDAD PROMEDIO DE DESCARGA**
 
