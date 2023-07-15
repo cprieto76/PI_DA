@@ -4,15 +4,9 @@
 
    Ingresos Generados / Numero de Abonados
 
-    A mayor numero de Ingresos mayor ARPU a mayor numero de abonados mayores ingresos.
-
-   CUal es el numero optimo para el ARPU.
-   EN el año 2023 el ARPU es de 5595 y aumenta entre un 6 y un 11%
-
-   Analisis de variable ingresos
-
-   Desde el año 2014 los ingresos suben trimestre a trimestre
-
+    El ARPU calculado en base a los accesos reportados por las empresas de telecomunicaciones y a los ingresos generados.  
+    Reflejan la capacidad de una empresa para generar ingresos.
+   
 2) **VELOCIDAD PROMEDIO DE DESCARGA**
 
    La velocidad de descarga tendra que ser superior mayor a 70 Mbps al finalizar 2023 y cada año tendra que ir aumentando minimo un 5% o segun estadisticas actuales y       previsiones de nuevas tecnologias.
