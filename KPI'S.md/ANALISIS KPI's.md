@@ -2,7 +2,14 @@
 
 1. **ARPU (AVERAGE REVENUE PER USER)**  
 
-   Ingresos Generados / Numero de Abonados  
+   Ingresos Generados / Numero de Abonados
+
+    A mayor numero de Ingresos mayor ARPU a mayor numero de abonados mayores ingresos .
+
+   CUal es el numero optimo para el ARPU.
+   EN el año 2023 el ARPU es de 5595 y aumenta entre un 6 y un 11%
+
+   Analisis de varialbe ingresos
 
 2) **VELOCIDAD PROMEDIO DE DESCARGA**
 
