@@ -4,8 +4,12 @@
 
    Ingresos Generados / Numero de Abonados
 
-    El ARPU calculado en base a los accesos reportados por las empresas de telecomunicaciones y a los ingresos generados.  
-    Reflejan la capacidad de una empresa para generar ingresos.
+    El ARPU calculado en base a los ingresos generados y accesos reportados por las empresas de telecomunicaciones 
+
+   - Reflejan la capacidad de una empresa para generar ingresos.
+   - Se ve un incremento sostenido del ARPU lo cual demuestra la capacidad de generar ingresos por cada usuario o abonado independiente de la cantidad de usuarios que        presente. En cierta medida puede indicar la calidad del servicio de las empresas involucradas en el negocio o en su defecto un mercado protegido o de baja              competencia.
+   - EL incremento anual del ARPU oscila entre el 5 y el 9%
+   
    
 2) **VELOCIDAD PROMEDIO DE DESCARGA**
 
