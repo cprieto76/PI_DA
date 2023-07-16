@@ -49,4 +49,10 @@ Resultados de la categorizacion en la cual se mide el grado de penetracion de la
 
 En ambos casos se observa que el mayor desarrollo en cuanto a penetracion o cobertura del internet fijo entre los años 2014 y 2022 se presento en las Provincias de menos de 1 millon de Habitantes (Despobladas) y cuya densidad es menor a 20 Hab/Km2 (No densas).
 
-La decision de hacer esta categorizacion se baso en el modelamiento que propone la 
+La decision de hacer esta categorizacion se baso en el modelamiento que propone la ONU en su modelo llamado **Grado de Urbanizacion** que propone estandarizar la manera en la que los diferentes paises delinean sus zonas urbanas y rurales, teniendo claro que este conocimiento permite definir claramente los procedimientos mas eficientes para el desarrollo sostenible de las ciudades y en su desarrollo economico.
+
+Debido a que los distintos paises estan en un proceso continuo de urbanizacion, la ciudad se presenta como protagonista y uno de los insumos mas significativos para la evolucion de los servicios de telecomunicacion.
+
+Conocer las ciudades, su crecimiento y los riesgos que estas presentan hacen que las inversiones en los procesos de masificacion de servicio de de telecomunicacion sean mas rentables.
+
+Hasta que punto podran crecer las ciudades conservando unos parametros minimos de calidad de vida? Son preguntas que nos tenemos que hacer constantemente teniendo claro que las ciuddes son las responsables del 
