@@ -58,3 +58,7 @@ Conocer las ciudades, su crecimiento y los riesgos que estas presentan hacen que
 Hasta que punto podran crecer las ciudades conservando unos parametros minimos de calidad de vida? Son preguntas que nos tenemos que hacer constantemente teniendo claro que las ciudades son las responsables de 2 tercios del consumo mundial de energia y del 70% de los gases de efecto invernadero.
 
 El avance los paises dependera de la sostenibilidad de sus ciudades.
+
+El siguiente un link que habla del riesgo climatico sobre la ciudad de Buenos Aires
+
+https://www.infobae.com/america/medio-ambiente/2023/02/20/buenos-aires-se-encuentra-entre-las-50-ciudades-que-mas-danos-materiales-sufrira-por-la-crisis-climatica/
