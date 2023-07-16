@@ -27,13 +27,19 @@
 
    - Argentina ocupa el puesto 73 a nivel mundial   https://es.wikipedia.org/wiki/Anexo:Velocidad_de_conexi%C3%B3n_a_Internet_por_pa%C3%ADses
 
-#### Velocidad a traves del tiempo
+#### Velocidad pais a traves del tiempo
 
   - EN 2014 la velocidad de bajada promedio pais era de 4 Mbps = 4000 Kbps o lo equivalente a  conexiones Dial Up telefonicas, se 
   - EN el año 2017 se da un gran salto del 18% en aumento de la velocidad de bajada en internet
   - Siempre ha habido incrementos en la velocidad pero no son cada vez mayores sino que un año sube el 15,4% y al otro el 11,3%, mientras la cantida de conexiones Dial
     Up dismiuye las conexiones fira optica de mayor velocidad aumentan
+  - Los incrementos de velocidad promedio son de 5 al 10%
 
+#### Velocidad Provincias a traves del tiempo
+
+- CABA presenta la mayor velocidad siendo la ciudad mas poblada de la Argentina y la mas densa de las entidades terrtoriales de primer nivel
+- Tierra de Fuego presenta la menor velocidad de todas las provincias
+  
 4) KPI 3.
 
 **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
