@@ -40,3 +40,9 @@ Inclusive la Provincia de Buenos Aires (17.569.053 Hab), ni la de Tucuman (75,39
 Es de destacar entre los datos de Poblacion y Densidad poblacional la muy alta densidad de CABA de 15.156 Hab/Km2 siendo la provincia de Tucuman la que la sigue de lejos con una densidad de 75.39 Hab/Km2.
 
 Podriamos hacer una primera aproximación en cuanto a la incidencia de la variable de densidad y tamaño poblacional concluyendo que la densidad puede ser respecto a la poblacion una variable que afecta mayormente el grado de expansion de los servicios de telecomunicaciones , especificamente el internet fijo.
+
+Resultados de la categorizacion en la cual se mide el grado de penetracion de las Provincias en base a la Poblacion y a la Densidad Poblacional
+
+![image](https://github.com/cprieto76/PI_DA/assets/115907710/bef99ded-0d97-4926-8754-99e1f64549f1)
+
+![image](https://github.com/cprieto76/PI_DA/assets/115907710/acc041b2-3aa4-400a-80b0-4df197ced719)
