@@ -46,3 +46,7 @@ Resultados de la categorizacion en la cual se mide el grado de penetracion de la
 ![image](https://github.com/cprieto76/PI_DA/assets/115907710/bef99ded-0d97-4926-8754-99e1f64549f1)
 
 ![image](https://github.com/cprieto76/PI_DA/assets/115907710/acc041b2-3aa4-400a-80b0-4df197ced719)
+
+En ambos casos se observa que el mayor desarrollo en cuanto a pemetracion o cobertura del internet fijo entre los años 2014 y 2022 se presento en las Provincias de menos de 1 millon de Habitantes (Despobladas) y cuya densidad es menor a 20 Hab/Km2 (No densas).
+
+La decision de hacer esta categorizacion se baso en el modelamiento que propone la 
