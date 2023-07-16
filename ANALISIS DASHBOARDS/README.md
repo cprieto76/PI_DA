@@ -35,3 +35,11 @@ c) No densa        (<20 HAB/KM2)
 - Podriamos hacer una primera aproximación en cuanto a la incidencia de la variable de densidad y tamaño poblacional concluyendo que la densidad puede ser respecto a la poblacion una variable que afecta mayormente el grado de expansion de los servicios de telecomunicaciones , especificamente el internet fijo.
 
 - Se hace revision de de la penetracion por tipo de provincia para el KPI3
+
+  ### ACCESOS DIAL UP
+
+   - Disminucion de este tipo de conexion hasta estabilizar en 12.000 conexiones aproximadamente a nivel pais
+  
+  ### ACCESOS BANDA ANCHA
+
+- Aumento de este tipo de conexiones 
