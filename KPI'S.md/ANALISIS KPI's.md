@@ -55,4 +55,6 @@ Debido a que los distintos paises estan en un proceso continuo de urbanizacion, 
 
 Conocer las ciudades, su crecimiento y los riesgos que estas presentan hacen que las inversiones en los procesos de masificacion de servicio de de telecomunicacion sean mas rentables.
 
-Hasta que punto podran crecer las ciudades conservando unos parametros minimos de calidad de vida? Son preguntas que nos tenemos que hacer constantemente teniendo claro que las ciuddes son las responsables del 
+Hasta que punto podran crecer las ciudades conservando unos parametros minimos de calidad de vida? Son preguntas que nos tenemos que hacer constantemente teniendo claro que las ciudades son las responsables de 2 tercios del consumo mundial de energia y del 70% de los gases de efecto invernadero.
+
+El avance los paises dependera de la sostenibilidad de sus ciudades.
