@@ -21,6 +21,10 @@ a) Poblada        (> 3 MILLONES Hab)
 b) Semipoblada    (1 a 3 MILLONES)  
 c) Despoblada     (< 1 MILLON)  
 
+Revisamos el comportamiento de la ciudad de Buenos Aires que es muy particular en el sentido de sus aumentos y disminuciones
+
+A continuacion revisa
+
 Se clasifican las provincias por densidad de poblacion en 3 categorias  
 a) Densa           (>50 HAB/KM2)  
 b) Semidensa       (20 A 50 HAB/KM2)  
