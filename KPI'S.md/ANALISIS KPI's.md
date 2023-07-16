@@ -22,7 +22,12 @@
    Esta velocidad minima debe ser evaluada con encuestas a los hogares que permita saber la satisfaccion del cliente respecto a sus habitos de consumo y su experiencia 
    como usuario del servicio, en terminos de velocidad de bajada y subida de informacion a la red, estabilidad de la conexion y latencia.
 
-3) KPI 3.
+   ### Velocidad Comparativa a Nivel Mundial (Junio 2021)
+
+   - Argentina Ocupa el puesto 73 a nivel mundial   https://es.wikipedia.org/wiki/Anexo:Velocidad_de_conexi%C3%B3n_a_Internet_por_pa%C3%ADses
+- A nivel del ALCA ocupa ......
+
+4) KPI 3.
 
 **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
 
