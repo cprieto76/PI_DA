@@ -16,5 +16,13 @@ Toda la informacion de que se dispone empieza en 2014 y termina el tercer trimes
 
 #### Penetracion por Provincias
 
-En base a categorizacion establecida 
+Se clasifican las provincias por tamaño de poblacion en 3 categorias
+a) Poblada
+b) Semipoblada
+c) Despoblada
+
+Se clasifican las provincias por densidad de poblacion en 3 categorias
+a) Densa
+b) Semidensa
+c) No densa
 
