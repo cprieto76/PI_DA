@@ -22,10 +22,16 @@
    Esta velocidad minima debe ser evaluada con encuestas a los hogares que permita saber la satisfaccion del cliente respecto a sus habitos de consumo y su experiencia 
    como usuario del servicio, en terminos de velocidad de bajada y subida de informacion a la red, estabilidad de la conexion y latencia.
 
-   ### Velocidad Comparativa a Nivel Mundial (Junio 2021)
+   #### Velocidad Comparativa a Nivel Mundial (Junio 2021)
 
-   - Argentina Ocupa el puesto 73 a nivel mundial   https://es.wikipedia.org/wiki/Anexo:Velocidad_de_conexi%C3%B3n_a_Internet_por_pa%C3%ADses
-- A nivel del ALCA ocupa ......
+   - Argentina ocupa el puesto 73 a nivel mundial   https://es.wikipedia.org/wiki/Anexo:Velocidad_de_conexi%C3%B3n_a_Internet_por_pa%C3%ADses
+
+#### Velocidad a traves del tiempo
+
+  - EN 2014 la velocidad de bajada promedio pais era de 4 Mbps = 4000 Kbps o lo equivalente a  conexiones Dial Up telefonicas, se 
+  - EN el año 2017 se da un gran salto del 18% en aumento de la velocidad de bajada en internet
+  - Siempre ha habido incrementos en la velocidad pero no son cada vez mayores sino que un año sube el 15,4% y al otro el 11,3%, mientras la cantida de conexiones Dial
+    Up dismiuye las conexiones fira optica de mayor velocidad aumentan
 
 4) KPI 3.
 
