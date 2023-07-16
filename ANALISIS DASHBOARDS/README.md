@@ -16,13 +16,14 @@ Toda la informacion de que se dispone empieza en 2014 y termina el tercer trimes
 
 #### Penetracion por Provincias
 
-Se clasifican las provincias por tamaño de poblacion en 3 categorias
-a) Poblada
-b) Semipoblada
-c) Despoblada
+Se clasifican las provincias por tamaño de poblacion en 3 categorias  
+a) Poblada        (> 3 MILLONES Hab)  
+b) Semipoblada    (1 a 3 MILLONES)  
+c) Despoblada     (< 1 MILLON)  
 
-Se clasifican las provincias por densidad de poblacion en 3 categorias
-a) Densa
-b) Semidensa
-c) No densa
+Se clasifican las provincias por densidad de poblacion en 3 categorias  
+a) Densa           (>50 HAB/KM2)  
+b) Semidensa       (20 A 50 HAB/KM2)  
+c) No densa        (<20 HAB/KM2)
 
+Se hace revision de de la penetracion por tipo de provincia para el KPI3
