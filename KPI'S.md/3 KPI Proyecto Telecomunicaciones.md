@@ -42,5 +42,4 @@ Se definen 3 KPI's en base al tiempo de entrega del proyecto, el impacto sobre u
 
    **HIPOTESIS DE TRABAJO**
 
-   - Las ciudades entre mas grandes y densas sean seran mas atractivas para el suministro de un servicio de internet ya que poseen la infraestructura fisica (vias,          canalizaciones, centrales de operacion), recursos humanos calificados , recursos materiales y nivel socioeconomico de sus habitantes que exigue el uso de internet 
-     y permite asi mismo que haga parte de su canasta familiar, 
+   - Las ciudades entre mas grandes y densas sean seran mas atractivas para el suministro de un servicio de internet ya que poseen la infraestructura fisica (vias,          canalizaciones, centrales de operacion), recursos humanos calificados , recursos materiales y nivel socioeconomico de sus habitantes que genera una demanda en el        uso de internet y permite asi mismo que haga parte de su canasta familiar, 
