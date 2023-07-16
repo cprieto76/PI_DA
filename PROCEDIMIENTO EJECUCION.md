@@ -246,11 +246,20 @@ Con esta libreria volvemos a generar los reportes html y revisamos variable por 
 
 #### V.   Definicion de KPI's
 
-1) ARPU (Average Revenue Per User, por sus siglas en inglés): El ARPU mide los ingresos promedio generados por cada abonado. Puedes calcularlo dividiendo los ingresos totales de los servicios de telecomunicaciones entre el número total de abonados durante un período determinado.
+1) **ARPU (AVERAGE REVENUE PER USER)**  
 
-2) Tasa de crecimiento de abonados: Este KPI muestra la velocidad a la que la operadora está adquiriendo nuevos abonados a lo largo del tiempo. Puedes calcularlo dividiendo el cambio neto en el número de abonados entre el número total de abonados al comienzo del período y multiplicarlo por 100 para obtener un porcentaje. Un crecimiento constante o creciente indica una demanda sostenida de los servicios de la operadora.
+   Ingresos Generados por el sector en un año / Numero de Accesos en un año
 
-3) KPI basado en cobertura de los otros servicios
+   Mide los ingresos promedio generados por cada abonado. Puedes calcularlo dividiendo los ingresos totales de los servicios de telecomunicaciones entre el número        total de abonados durante un período determinado.
+
+2) **VELOCIDAD PROMEDIO DE DESCARGA**
+
+   La velocidad de descarga tendra que ser superior mayor a 70 Mbps al finalizar 2023 y cada año tendra que ir aumentando segun estadisticas actuales y previsiones de       nuevas tecnologias.
+
+   Esta velocidad minima debe ser evaluada con encuestas a los hogares que permita saber la satisfaccion del cliente respecto a sus habitos de consumo y su experiencia 
+   como usuario del servicio, en terminos de velocidad de bajada y subida de informacion a la red, estabilidad de la conexion y su latencia.
+
+3) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
 
 
 
