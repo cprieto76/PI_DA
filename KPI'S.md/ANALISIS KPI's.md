@@ -11,7 +11,8 @@
    - Reflejan la capacidad de una empresa para generar ingresos.
    - Se ve un incremento sostenido del ARPU lo cual demuestra la capacidad de generar ingresos por cada usuario o abonado independiente de la cantidad de usuarios que        presente. En cierta medida puede indicar la calidad del servicio de las empresas involucradas en el negocio o en su defecto un mercado protegido o de baja              competencia.
    - El incremento anual del ARPU oscila entre el 5 y el 9%
-   
+   - El ARPU de la Empresa de Telecomuniciones con sus servicios combinados es de $5.595.000 anual , equivalente a 17,3 USD mensuales
+       
    
 2) KPI 2.
   
