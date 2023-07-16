@@ -7,7 +7,14 @@ Toda la informacion de que se dispone empieza en 2014 y termina el tercer trimes
   
 ### PENETRACION DE LOS HOGARES
 
-- Los accesos por habitante han aumento desde el 2014 desde el 15% al 24%
-- Los accesos por hogar han aumentando del 49% al 77%
+- Argentina esta por encima del promedio de penetracion a internet fijo del ALCA en 2021 que es de 67%
+- Argentina tiene una penetracion de 70%
+- Su primera meta debe ser llegar como minimo al 77% que tiene Brasil
+- La grafica de penetracion por hab y hogar nos perite visualizar que hay en promedio 3 habitantes por cada hogar.
+- EL crecimiento de la penetracion en hogares es del 54% desde 49,6% a 76,6%, lo que representaria un valor anual entre 5 a 8%
 - Demuestra que es un mercado en etapa de crecimiento
-- 
+
+#### Penetracion por Provincias
+
+En base a categorizacion establecida 
+
