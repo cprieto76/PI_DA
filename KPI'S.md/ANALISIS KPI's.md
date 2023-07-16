@@ -19,3 +19,6 @@
    como usuario del servicio, en terminos de velocidad de bajada y subida de informacion a la red, estabilidad de la conexion y su latencia.
 
 3) **COBERTURA SEGUN TAMAÑO Y DENSIDAD POBLACIONAL**
+
+
+4) 
